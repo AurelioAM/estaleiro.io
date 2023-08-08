@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+height: 100%;
+width: 100%;
+background-image: url(../img/parede.jpg);
+
+
+}
+.barra{
+ background-color: #171f47;;
+}
+.destaque{
+    margin-top: 20px;
+    background: rgb(219, 214, 214);
+    height: 200px;
+    width: 80%; 
+    text-align: center;
+    padding: 5px;
+    font-size: 30px;
+}
+h3 a{
+    text-decoration: none;
+}
+h3 a:hover{
+    font-size: 35px;
+    text-decoration: rgb(189, 64, 47);
+
+}
+
+.touch{
+    border-radius: 2%;
+    margin-top: 20px;
+    background: rgb(243, 241, 241);
+    width: 100%;
+    text-align: center;
+    height: 200px;
+    padding: 5px;
+}
+input{
+    font-size: 25px;
+    float: left;
+    margin: 15px;
+}
+.endereco{
+    margin-left: 20%;
+    border-radius: 2%;
+    margin-top: 20px;
+    background: rgb(243, 241, 241);
+    width: 80%;
+    text-align: center;
+    height: 150px;
+    display: inline-block;
+}
+.seccao, .part3{
+    margin-right: 20%;
+    border-radius: 2%;
+    margin-top: 20px;
+    background: rgb(243, 241, 241);
+    width: 80%;
+    text-align: left;
+    height: 200px;
+    display: inline-block;
+}
+section{
+    background: rgb(243, 241, 241);
+    border-radius: 2%; 
+    
+}
+.sec1,.sec2{
+    width: 50%;
+    display: inline-block;
+    text-align: left; 
+}
+.sec3{
+    background: #706f64;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    
+}
